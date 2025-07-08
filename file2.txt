@@ -1,2 +1,3 @@
 this is my file 2
 this is changes.
+this is message after the merging the bug-fix branch in master branch.
