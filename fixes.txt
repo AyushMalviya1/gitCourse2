@@ -1,2 +1,3 @@
 This is fix file which is used to fix bug.
 add another fixes for the pink mode.
+add another fixes for purple mode.
